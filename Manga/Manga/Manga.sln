@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 15.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mangasharp", "Mangasharp.csproj", "{0C51F9AB-BA2E-4397-9604-0C0F72E1DCC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibManga", "LibManga\LibManga.csproj", "{B86F4606-E563-4BE2-A880-D67348B870C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C51F9AB-BA2E-4397-9604-0C0F72E1DCC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C51F9AB-BA2E-4397-9604-0C0F72E1DCC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C51F9AB-BA2E-4397-9604-0C0F72E1DCC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C51F9AB-BA2E-4397-9604-0C0F72E1DCC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86F4606-E563-4BE2-A880-D67348B870C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86F4606-E563-4BE2-A880-D67348B870C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86F4606-E563-4BE2-A880-D67348B870C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86F4606-E563-4BE2-A880-D67348B870C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

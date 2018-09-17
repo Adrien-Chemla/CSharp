@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{0C51F9AB-BA2E-4397-9604-0C0F72E1DCC6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Mangasharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="81" Column="17" />
+      <File FileName="LibManga/Recherche.cs" Line="9" Column="9" />
+      <File FileName="LibManga/MediaPapier.cs" Line="35" Column="10" />
+      <File FileName="LibManga/Manga.cs" Line="14" Column="21" />
+      <File FileName="LibManga/BD.cs" Line="17" Column="6" />
+      <File FileName="LibManga/Notation.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

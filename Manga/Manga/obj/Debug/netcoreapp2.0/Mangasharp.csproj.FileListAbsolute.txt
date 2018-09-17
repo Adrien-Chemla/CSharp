@@ -1,0 +1,11 @@
+/Users/achemla/Desktop/Premiere_annee/CSharp/Manga/Manga/bin/Debug/netcoreapp2.0/Mangasharp.deps.json
+/Users/achemla/Desktop/Premiere_annee/CSharp/Manga/Manga/bin/Debug/netcoreapp2.0/Mangasharp.runtimeconfig.json
+/Users/achemla/Desktop/Premiere_annee/CSharp/Manga/Manga/bin/Debug/netcoreapp2.0/Mangasharp.runtimeconfig.dev.json
+/Users/achemla/Desktop/Premiere_annee/CSharp/Manga/Manga/bin/Debug/netcoreapp2.0/Mangasharp.dll
+/Users/achemla/Desktop/Premiere_annee/CSharp/Manga/Manga/bin/Debug/netcoreapp2.0/Mangasharp.pdb
+/Users/achemla/Desktop/Premiere_annee/CSharp/Manga/Manga/obj/Debug/netcoreapp2.0/Mangasharp.csprojResolveAssemblyReference.cache
+/Users/achemla/Desktop/Premiere_annee/CSharp/Manga/Manga/obj/Debug/netcoreapp2.0/Mangasharp.csproj.CoreCompileInputs.cache
+/Users/achemla/Desktop/Premiere_annee/CSharp/Manga/Manga/obj/Debug/netcoreapp2.0/Mangasharp.AssemblyInfoInputs.cache
+/Users/achemla/Desktop/Premiere_annee/CSharp/Manga/Manga/obj/Debug/netcoreapp2.0/Mangasharp.AssemblyInfo.cs
+/Users/achemla/Desktop/Premiere_annee/CSharp/Manga/Manga/obj/Debug/netcoreapp2.0/Mangasharp.dll
+/Users/achemla/Desktop/Premiere_annee/CSharp/Manga/Manga/obj/Debug/netcoreapp2.0/Mangasharp.pdb
